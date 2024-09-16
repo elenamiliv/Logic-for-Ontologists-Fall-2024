@@ -1,4 +1,4 @@
-Part I - Elena M.
+Part I - Elena Milivinti
 
 |        | Funct. | iFunct. | Trans. | Symm. | Asymm. | Ref. | Irref. |
 |--------|--------|---------|--------|-------|--------|------|--------|
